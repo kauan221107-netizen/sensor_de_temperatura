@@ -8,7 +8,18 @@ Projeto de medição de temperatura ambiente em tempo real usando **Arduino**, u
 
 ---
 
-## 📸 Demonstração
+## Demonstração
 <p align="center">
 <img src="termometro.png">
 </p>
+
+---
+
+## Objetivo
+
+Praticar conceitos de eletrônica e programação embarcada, abordando:
+
+- Leitura de sinais analógicos com o conversor ADC do Arduino
+- Conversão de tensão em temperatura
+- Uso de display LCD em modo paralelo (4 bits)
+- Montagem de circuitos em protoboard
