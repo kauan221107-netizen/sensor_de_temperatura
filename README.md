@@ -91,3 +91,12 @@ Praticar conceitos de eletrônica e programação embarcada, abordando:
 4. Selecione a placa e a porta em **Ferramentas**.
 5. Clique em **Carregar**.
 6. Ajuste o potenciômetro até o texto ficar visível no display.
+
+---
+
+## Aprendizados
+
+- Funcionamento do ADC e conversão de sinais analógicos
+- Redução de ruído com média de leituras
+- Controle de LCD com a biblioteca `LiquidCrystal`
+- Organização e depuração de circuitos em protoboard
