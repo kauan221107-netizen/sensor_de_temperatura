@@ -100,3 +100,9 @@ Praticar conceitos de eletrônica e programação embarcada, abordando:
 - Redução de ruído com média de leituras
 - Controle de LCD com a biblioteca `LiquidCrystal`
 - Organização e depuração de circuitos em protoboard
+
+---
+
+##   AUTOR
+Kauan José da Silva 
+CAI ELÉTRICA /eletrônica/ SENAI
