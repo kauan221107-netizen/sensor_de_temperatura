@@ -68,7 +68,7 @@ Praticar conceitos de eletrônica e programação embarcada, abordando:
 
 ---
 
-## ⚙️ Como funciona
+## Como funciona
 
 1. O LM35 gera uma tensão de **10 mV para cada 1 °C**.
 2. O Arduino lê essa tensão no pino analógico `A0` (valor de 0 a 1023).
@@ -80,3 +80,14 @@ Praticar conceitos de eletrônica e programação embarcada, abordando:
    ```
 
 5. O resultado é mostrado na segunda linha do LCD, atualizado a cada 500 ms
+
+---
+
+## Como executar
+
+1. Monte o circuito conforme a tabela de ligações.
+2. Abra a [Arduino IDE](https://www.arduino.cc/en/software).
+3. Copie o código para um novo sketch.
+4. Selecione a placa e a porta em **Ferramentas**.
+5. Clique em **Carregar**.
+6. Ajuste o potenciômetro até o texto ficar visível no display.
