@@ -23,3 +23,16 @@ Praticar conceitos de eletrônica e programação embarcada, abordando:
 - Conversão de tensão em temperatura
 - Uso de display LCD em modo paralelo (4 bits)
 - Montagem de circuitos em protoboard
+
+--
+
+## Materiais
+
+| Qtd | Componente |
+|-----|------------|
+| 1 | Arduino (Uno ou compatível) |
+| 1 | Sensor de temperatura LM35 |
+| 1 | Display LCD 16x2 (JHD 162A / HD44780) |
+| 1 | Potenciômetro 10kΩ (ajuste de contraste) |
+| 1 | Protoboard |
+| — | Jumpers macho-macho |
