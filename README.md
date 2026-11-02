@@ -5,3 +5,10 @@ Projeto de medição de temperatura ambiente em tempo real usando **Arduino**, u
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 ![Plataforma](https://img.shields.io/badge/plataforma-Arduino-00979D)
 ![Linguagem](https://img.shields.io/badge/linguagem-C%2B%2B-blue)
+
+---
+
+## 📸 Demonstração
+<p align="center">
+<img src="termometro.png">
+</p>
