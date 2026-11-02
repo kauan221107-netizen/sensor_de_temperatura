@@ -36,3 +36,24 @@ Praticar conceitos de eletrônica e programação embarcada, abordando:
 | 1 | Potenciômetro 10kΩ (ajuste de contraste) |
 | 1 | Protoboard |
 | — | Jumpers macho-macho |
+
+---
+
+## Ligações
+
+### Display LCD → Arduino
+
+| Pino do LCD | Arduino |
+|-------------|---------|
+| VSS | GND |
+| VDD | 5V |
+| V0 | Pino central do potenciômetro |
+| RS | D12 |
+| RW | GND |
+| E | D11 |
+| D4 | D5 |
+| D5 | D4 |
+| D6 | D3 |
+| D7 | D2 |
+| A (backlight +) | 5V |
+| K (backlight −) | GND |
