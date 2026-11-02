@@ -65,3 +65,18 @@ Praticar conceitos de eletrônica e programação embarcada, abordando:
 | 1 (+Vs) | 5V |
 | 2 (Vout) | A0 |
 | 3 (GND) | GND |
+
+---
+
+## ⚙️ Como funciona
+
+1. O LM35 gera uma tensão de **10 mV para cada 1 °C**.
+2. O Arduino lê essa tensão no pino analógico `A0` (valor de 0 a 1023).
+3. O código faz a média de 10 leituras para reduzir ruído.
+4. O valor é convertido em tensão e depois em graus Celsius:
+
+   ```
+   temperatura (°C) = (leitura × 5.0 / 1023.0) × 100
+   ```
+
+5. O resultado é mostrado na segunda linha do LCD, atualizado a cada 500 ms
