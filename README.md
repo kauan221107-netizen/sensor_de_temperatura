@@ -57,3 +57,11 @@ Praticar conceitos de eletrônica e programação embarcada, abordando:
 | D7 | D2 |
 | A (backlight +) | 5V |
 | K (backlight −) | GND |
+
+### Sensor LM35 → Arduino
+
+| Pino do LM35 | Arduino |
+|--------------|---------|
+| 1 (+Vs) | 5V |
+| 2 (Vout) | A0 |
+| 3 (GND) | GND |
